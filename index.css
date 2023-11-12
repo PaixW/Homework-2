@@ -1,0 +1,58 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    
+  }
+  
+  #navigation {
+    background-color: #333;
+    padding: 10px;
+  }
+  
+  #navigation a {
+    color: white;
+    text-decoration: none;
+    margin-right: 10px;
+  }
+  
+  #profile {
+    max-width: 600px;
+    margin: 20px auto;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+  }
+  
+  #profile h1 {
+    color: #333;
+  }
+  
+  #profile div {
+    margin-bottom: 15px;
+  }
+  
+  #profile label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+  }
+  
+  #profile input,
+  #profile textarea,
+  #profile button {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+  
+  #profile button {
+    background-color: #4caf50;
+    color: white;
+    cursor: pointer;
+  }
+  
+  #profile button:hover {
+    background-color: #45a049;
+  }
+  
